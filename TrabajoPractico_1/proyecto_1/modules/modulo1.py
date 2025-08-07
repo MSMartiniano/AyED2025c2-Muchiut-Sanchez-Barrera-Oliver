@@ -2,6 +2,7 @@
 # Crear tantos módulos como sea necesario para organizar el código
 
 print("Prueba")
+print("Prueba2")
 
 a = 5
 b = 2
